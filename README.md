@@ -1,4 +1,3 @@
-# SCT_DS_4
 # Task 4 - Traffic Accident Pattern Analysis and Visualization  
 **SkillCraft Technology Data Science Internship**  
 **Intern: Gaurav Singh**
@@ -73,4 +72,3 @@ To run this project locally:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly folium
-# SCT_DS_4
